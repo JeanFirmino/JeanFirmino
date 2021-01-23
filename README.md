@@ -11,7 +11,7 @@
 # :mag:	 Sobre mim!  :tada:  :star:	
 
 
-<p align='justify'> Sou de Riacho das Almas, Pernambuco. Atualmente sou graduando no curso de engenharia civil da turma de 2019.1 pela Universidade Federal de Pernambuco - Campus do Agreste. Minha ferramenta de trabalho principal é o Python e suas principais bibliotecas, como a Numpy, Pandas, Mathplotlib, Seaborn, Sklearn e Django. Tenho interesse na área de desenvolvimento web com a aplicação Django e em análise de dados, mas também em análise preditiva e seus benefícios. <p/>
+<p align='justify'> Sou de Riacho das Almas, Pernambuco. Graduando no curso de engenharia civil da turma de 2019.1 pela Universidade Federal de Pernambuco - Campus do Agreste. Minhas ferramentas de trabalho são o Python e as suas principais bibliotecas, como a Numpy, Pandas, Mathplotlib, Seaborn, Sklearn e Django. Tenho interesse na área de desenvolvimento web com a aplicação Django e em análise de dados, mas também em análise preditiva e seus benefícios. <p/>
 
 
 # :bulb:	 Minhas estatísticas gerais  :checkered_flag:  :black_nib:
