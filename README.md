@@ -1,6 +1,6 @@
 # Alô amigos! :smile:	:wave:
 
-![](https://github.com/JeanFirmino/JeanFirmino/blob/main/jangif.gif)
+![](https://github.com/JeanFirmino/JeanFirmino/blob/main/jeangithub.gif)
 
 <h4> :black_small_square:	 Esta é a minha apresentação pessoal! :v:	:tada: <h4/>
   
@@ -10,9 +10,9 @@
 
 <p> :black_circle: As minhas estatísticas gerais :checkered_flag:<p/> 
  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeanFirmino)](https://github.com/JeanFirmino/github-readme-stats&show_icons=true&theme=dark)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeanFirmino)](https://github.com/JeanFirmino/github-readme-stats&show_icons=true&theme=cobalt)
 
 <p> :red_circle: Essas são as estatísticas das minhas cotribuições privadas :heavy_check_mark:	<p/>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeanFirmino&count_private=true&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeanFirmino&count_private=true&show_icons=true&theme=merko)
 
