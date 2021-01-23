@@ -1,10 +1,11 @@
-# :desktop_computer:	 Alô amigos!  :smile:  :wave:
-
+<h1 align="center">
+	 :dragon_face:	 :desktop_computer:	 Alô amigos!  :smile:  :wave:
+<h1/>
 
 ![Apresentação](https://github.com/JeanFirmino/JeanFirmino/blob/main/GifparaoGithub.gif)
 
 
-<h6>- Meri, você sabe nadar ?<br/>- Não, mas eu sei aprender.<br/>(Meri, 2 anos)<h6>
+<h6 align="right">- Meri, você sabe nadar ?<br/>- Não, mas eu sei aprender.<br/>(Meri, 2 anos)<h6>
 
 
 # :mag:	 Sobre mim!  :tada:  :star:	
@@ -13,16 +14,16 @@
 <p align='justify'> Sou de Riacho das Almas, Pernambuco. Atualmente sou graduando no curso de engenharia civil da turma de 2019.1 pela Universidade Federal de Pernambuco - Campus do Agreste. Minha ferramenta de trabalho principal é o Python e suas principais bibliotecas, como a Numpy, Pandas, Mathplotlib, Seaborn, Sklearn e Django. Tenho interesse na área de desenvolvimento web com a aplicação Django e em análise de dados, mas também em análise preditiva e seus benefícios. <p/>
 
 
-# :bulb:	 Minhas estatísticas gerais  :checkered_flag:  :dragon_face:	
+# :bulb:	 Minhas estatísticas gerais  :checkered_flag:  :black_nib:
  
  
 [![Jean's github stats](https://github-readme-stats.vercel.app/api?username=JeanFirmino)](https://github.com/JeanFirmino/github-readme-stats&show_icons=true&theme=cobalt)
 
 
-# :diya_lamp:	 Minhas cotribuições privadas  :heavy_check_mark:	 :octopus:	
+# :speaking_head:	 Minhas cotribuições privadas  :heavy_check_mark:	 :octopus:	
 
 
-![Jean's github stats](https://github-readme-stats.vercel.app/api?username=JeanFirmino&count_private=true&show_icons=true&theme=merko)
+![Jean's github stats](https://github-readme-stats.vercel.app/api?username=JeanFirmino&count_private=true&show_icons=true&theme=merko&)
 
 
 # :pushpin:	 Meu ranking pessoal  :scroll: 	:pencil2:	
@@ -31,7 +32,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanFirmino)](https://github.com/JeanFirmino/github-readme-stats)
 
 
-# :1st_place_medal:	 Estou aprendendo  :octocat:  :seedling:	
+# :1st_place_medal:	 Estou aprendendo  :dagger:	  :seedling:	
 
 
 ![Html5](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/html.png)
@@ -84,7 +85,7 @@
 ![bulma](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/bulma.png)
 
  
-#### :trophy:	 Muito obrigado pela sua visita!  :cyclone:	 :sparkles:	
+#### :trophy:	 Muito obrigado pela sua visita!  :floppy_disk:	 :sparkles:	
 
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeanFirmino&count_bg=%236F3DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
@@ -92,7 +93,7 @@
 
 
 <div>
-  <p align="center"><b>Contatos :mega:	</b></p>
+  <p align="center"><b> :v:	 Contatos  :mega:  :coffee:		</b></p>
  <p align="center">
       <a href="mailto:jeanfirmino00@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
