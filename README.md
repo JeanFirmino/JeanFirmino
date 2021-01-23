@@ -1,6 +1,6 @@
 # Alô amigos! :smile:	:wave:
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![](https://github.com/JeanFirmino/JeanFirmino/blob/main/jangif.gif)
 
 <h4> :black_small_square:	 Esta é a minha apresentação pessoal! :v:	:tada: <h4/>
   
