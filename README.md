@@ -14,22 +14,29 @@
 <p align='justify'> Sou de Riacho das Almas, Pernambuco. Graduando no curso de engenharia civil da turma de 2019.1 pela Universidade Federal de Pernambuco - Campus do Agreste. Minhas ferramentas de trabalho são o Python e as suas principais bibliotecas, como a Numpy, Pandas, Mathplotlib, Seaborn, Sklearn e Django. Tenho interesse na área de desenvolvimento web com a aplicação Django e em análise de dados, mas também em análise preditiva e seus benefícios. <p/>
 
 
-# :bulb:	 Minhas estatísticas gerais  :checkered_flag:  :black_nib:
+# :bulb:  Minhas estatísticas gerais  :checkered_flag:  :black_nib:
  
  
 [![Jean's github stats](https://github-readme-stats.vercel.app/api?username=JeanFirmino&show_icons=true&theme=cobalt)](https://github.com/JeanFirmino/github-readme-stats)
 
 
-# :speaking_head:	 Minhas cotribuições privadas  :heavy_check_mark:	 :octopus:	
+# :speaking_head:  Minhas cotribuições privadas  :heavy_check_mark:  :octopus:	
 
 
 ![Jean's github stats](https://github-readme-stats.vercel.app/api?username=JeanFirmino&count_private=true&show_icons=true&theme=merko&)
 
 
-# :pushpin:	 Meu ranking pessoal  :scroll: 	:pencil2:	
+# :pushpin:  Meu ranking pessoal  :scroll:  :pencil2:	
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanFirmino)](https://github.com/JeanFirmino/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanFirmino&theme=gruvbox&show_icons=true)](https://github.com/JeanFirmino/github-readme-stats)
+
+
+# :bear:  Atualizações da semana  :crocodile:  :four_leaf_clover:
+
+
+[![Jean's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JeanFirmino&theme=tokyonight)](https://github.com/JeanFirmino/github-readme-stats)
+
 
 
 # :1st_place_medal:	 Estou aprendendo  :dagger:	  :seedling:	
