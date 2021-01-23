@@ -10,9 +10,17 @@
 
 <p> :black_circle: As minhas estatísticas gerais :checkered_flag:<p/> 
  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeanFirmino)](https://github.com/JeanFirmino/github-readme-stats&show_icons=true&theme=cobalt)
+ 
+[![Jean's github stats](https://github-readme-stats.vercel.app/api?username=JeanFirmino)](https://github.com/JeanFirmino/github-readme-stats&show_icons=true&theme=cobalt)
+
 
 <p> :red_circle: Essas são as estatísticas das minhas cotribuições privadas :heavy_check_mark:	<p/>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeanFirmino&count_private=true&show_icons=true&theme=merko)
 
+![Jean's github stats](https://github-readme-stats.vercel.app/api?username=JeanFirmino&count_private=true&show_icons=true&theme=merko)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanFirmino)](https://github.com/JeanFirmino/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanFirmino&layout=compact)](https://github.com/JeanFirmino/github-readme-stats)
