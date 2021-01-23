@@ -32,6 +32,4 @@
 ### Estou aprendendo
 ### Quero aprender
 
-> -- Meri, você sabe nadar ?
-> -- Não, mas eu sei aprender.
->               (Meri, 2 anos)
+<h6>- Meri, você sabe nadar ?<br/>- Não, mas eu sei aprender.<br/>(Meri, 2 anos)<h6>
