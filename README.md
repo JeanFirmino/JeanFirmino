@@ -1,7 +1,7 @@
 # Alô amigos! :smile:	:wave:
 
 
-![](https://github.com/JeanFirmino/JeanFirmino/blob/main/jeangithub.gif)
+![Apresentação](https://github.com/JeanFirmino/JeanFirmino/blob/main/GifparaoGithub.gif)
 
 
 ### :black_small_square: Sobre mim!  :tada:  :star:	
@@ -32,3 +32,11 @@
 
 
 [![Jean's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JeanFirmino)](https://github.com/JeanFirmino/github-readme-stats)
+
+### Já aprendi
+### Estou aprendendo
+### Quero aprender
+
+> -- Meri, você sabe nadar ?
+> -- Não, mas eu sei aprender.
+>               (Meri, 2 anos)
