@@ -28,11 +28,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanFirmino)](https://github.com/JeanFirmino/github-readme-stats)
 
 
-### Os códigos mais usados na semana 
-
-
-[![Jean's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JeanFirmino)](https://github.com/JeanFirmino/github-readme-stats)
-
 ### Já aprendi
 ### Estou aprendendo
 ### Quero aprender
