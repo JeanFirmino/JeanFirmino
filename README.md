@@ -17,7 +17,7 @@
 # :bulb:  Minhas estatísticas gerais  :checkered_flag:  :black_nib:
  
  
-[![Jean's github stats](https://github-readme-stats.vercel.app/api?username=JeanFirmino&theme=cobalt)](https://github.com/JeanFirmino/github-readme-stats)
+[![Jean's github stats](https://github-readme-stats.vercel.app/api?username=JeanFirmino&theme=cobalt&show_icons=true)](https://github.com/JeanFirmino/github-readme-stats)
 
 
 # :speaking_head:  Minhas cotribuições privadas  :heavy_check_mark:  :octopus:	
