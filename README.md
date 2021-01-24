@@ -2,7 +2,7 @@
 	 :dragon_face:	 :desktop_computer:	 Alô amigos!  :smile:  :wave:
 <h1/>
 
-![Apresentação](https://github.com/JeanFirmino/JeanFirmino/blob/main/GifparaoGithub.gif)
+![Apresentação](https://github.com/JeanFirmino/JeanFirmino/blob/main/Jeangif.gif)
 
 
 <h6 align="right">- Meri, você sabe nadar ?<br/>- Não, mas eu sei aprender.<br/>(Meri, 2 anos)<h6>
@@ -39,7 +39,7 @@
 
 
 
-# :1st_place_medal:	 Estou aprendendo  :dagger:	  :seedling:	
+# :sparkles: Estou aprendendo  :dagger:  :seedling:	
 
 
 ![Html5](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/html.png)
