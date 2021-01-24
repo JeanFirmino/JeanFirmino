@@ -32,13 +32,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanFirmino&theme=gruvbox&show_icons=true)](https://github.com/JeanFirmino/github-readme-stats)
 
 
-# :bear:  Atualizações da semana  :crocodile:  :four_leaf_clover:
-
-
-[![Jean's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JeanFirmino&theme=tokyonight)](https://github.com/JeanFirmino/github-readme-stats)
-
-
-
 # :sparkles: Estou aprendendo  :dagger:  :seedling:	
 
 
