@@ -42,6 +42,7 @@
 ![java](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/java.png)
 ![c](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/c.png)
 ![django](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/django.png)
+![flutter](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/flutter.png)
 
 
 # :ballot_box_with_check:	  Quero aprender  :rocket:	 :chart_with_upwards_trend:	
@@ -60,7 +61,6 @@
 ![jquery](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/jquery.png)
 ![npm](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/npm.png)
 ![sass](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/sass.png)
-![flutter](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/flutter.png)
 ![less](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/less.png)
 ![ruby](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/ruby.png)
 ![c#](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/c%23.png)
