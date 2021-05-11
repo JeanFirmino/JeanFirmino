@@ -45,7 +45,7 @@
 ![flutter](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/flutter.png)
 
 
-# :ballot_box_with_check:	  Quero aprender  :rocket:	 :chart_with_upwards_trend:	
+<!--# :ballot_box_with_check:	  Quero aprender  :rocket:	 :chart_with_upwards_trend:	
 
 
 ![Javascript](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/javascript.png)
@@ -82,7 +82,7 @@
 ![materialize](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/materialize.png)
 ![tailwind](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/tailwind.png)
 ![uik](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/ui_kit.png)
-![bulma](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/bulma.png)
+![bulma](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/bulma.png)-->
 
  
 #### :trophy:	 Muito obrigado pela sua visita!  :floppy_disk:	 :sparkles:	
