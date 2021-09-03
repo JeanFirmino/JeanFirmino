@@ -34,17 +34,28 @@
 
 # :sparkles: Estou aprendendo  :dagger:  :seedling:	
 
-
-![Html5](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/html.png)
-![CSS3](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/css.png)
-![Git](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/git.png)
-![python](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/python.png)
-![java](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/java.png)
-![c](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/c.png)
-![django](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/django.png)
-![flutter](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/flutter.png)
-
-
+<table>
+<tr>	
+	<td><img src="https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/html.png"></td>
+	<td>HTML</td>
+	<td><img src="https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/css.png"></td>
+	<td>CSS</td>
+	<td><img src="https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/git.png"></td>
+	<td>GIT</td>
+	<td><img src="https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/python.png"></td>
+	<td>Python</td>
+</tr>
+<tr>
+	<td><img src="https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/java.png"></td>
+	<td>Java</td>
+	<td><img src="https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/c.png"></td>
+	<td>C</td>
+	<td><img src="https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/django.png"></td>
+	<td>Django</td>
+	<td><img src="https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/flutter.png"></td>
+	<td>Flutter</td>
+</tr>
+</table>
 <!--# :ballot_box_with_check:	  Quero aprender  :rocket:	 :chart_with_upwards_trend:	
 
 
