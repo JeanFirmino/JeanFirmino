@@ -54,8 +54,33 @@
 	<td>Django</td>
 	<td><img src="https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/flutter.png"></td>
 	<td>Flutter</td>
+	<br></br>
 </tr>
 </table>
+	
+#### :trophy:	 Muito obrigado pela sua visita!  :floppy_disk:	 :sparkles:	
+
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeanFirmino&count_bg=%236F3DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+</a>
+
+
+<div>
+  <p align="center"><b> :v:	 Contatos  :mega:  :coffee:		</b></p>
+ <p align="center">
+      <a href="mailto:jeanfirmino00@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+      </a>
+      <a href="https://github.com/JeanFirmino" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+      <a href="https://www.linkedin.com/in/jeanfirmino/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+  </p>
+</div>
+<hr/>
+	
 <!--# :ballot_box_with_check:	  Quero aprender  :rocket:	 :chart_with_upwards_trend:	
 
 
@@ -94,27 +119,3 @@
 ![tailwind](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/tailwind.png)
 ![uik](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/ui_kit.png)
 ![bulma](https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/bulma.png)-->
-
- 
-#### :trophy:	 Muito obrigado pela sua visita!  :floppy_disk:	 :sparkles:	
-
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeanFirmino&count_bg=%236F3DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-</a>
-
-
-<div>
-  <p align="center"><b> :v:	 Contatos  :mega:  :coffee:		</b></p>
- <p align="center">
-      <a href="mailto:jeanfirmino00@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-      </a>
-      <a href="https://github.com/JeanFirmino" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-      </a>
-      <a href="https://www.linkedin.com/in/jeanfirmino/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-      </a>
-  </p>
-</div>
-<hr/>
