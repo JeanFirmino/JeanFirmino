@@ -36,25 +36,29 @@
 
 <table>
 <tr>	
-	<td><img src="https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/html.png"></td>
+	<td><img src="https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/html.png" width="80"></td>
 	<td>HTML</td>
-	<td><img src="https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/css.png"></td>
+	<td><img src="https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/css.png" width="80"></td>
 	<td>CSS</td>
-	<td><img src="https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/git.png"></td>
+	<td><img src="https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/git.png" width="80"></td>
 	<td>GIT</td>
-	<td><img src="https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/python.png"></td>
+	<td><img src="https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/python.png" width="80"></td>
 	<td>Python</td>
 </tr>
 <tr>
-	<td><img src="https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/java.png"></td>
+	<td><img src="https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/java.png" width="80"></td>
 	<td>Java</td>
-	<td><img src="https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/c.png"></td>
+	<td><img src="https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/c.png" width="80"></td>
 	<td>C</td>
-	<td><img src="https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/django.png"></td>
+	<td><img src="https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/django.png" width="80"></td>
 	<td>Django</td>
-	<td><img src="https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/flutter.png"></td>
+	<td><img src="https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/flutter.png" width="80"></td>
 	<td>Flutter</td>
 	<br></br>
+</tr>
+<tr>
+	<td><img src="https://github.com/JeanFirmino/JeanFirmino/blob/main/pixel_of_shields/base/scikit-learn.png" width="80"></td>
+	<td>Scikit Learn</td>
 </tr>
 </table>
 	
