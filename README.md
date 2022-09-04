@@ -2,11 +2,6 @@
 	 :dragon_face:	 :desktop_computer:	 Alô amigos!  :smile:  :wave:
 <h1/>
 
-![Apresentação](https://github.com/JeanFirmino/JeanFirmino/blob/main/Jeangif.gif)
-
-
-<h6 align="right">- Meri, você sabe nadar ?<br/>- Não, mas eu sei aprender.<br/>(Meri, 2 anos)<h6>
-
 
 # :mag:	 Sobre mim!  :tada:  :star:	
 
