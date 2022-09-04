@@ -1,7 +1,5 @@
 <h1 align="center">
 	 :dragon_face:	 :desktop_computer:	 Alô amigos!  :smile:  :wave:
-<h1/>
-
 
 # :mag:	 Sobre mim!  :tada:  :star:	
 
